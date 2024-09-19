@@ -6,11 +6,10 @@ export const registerSchema = object({
         .email("Formato de email incorrecto"),
     password: string()
         .required("Ingrese Contraseña")
-        .min(6, "Minimo 6 caracteres"),
+        .min(6, "Minimo 6 caracteres")
+        .matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$/,"debe contener may,min y numero"),
     confirmPassword: string()
         .required("Repita Contraseña")
-        .oneOf([ref("password"), null], "Las contraseñas no coinciden"),
+        .oneOf([ref("password"), null], "Las contraseñas no coinciden")
+        .matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$/,"debe contener may,min y numero"),
 })
-/*
-.matches(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$/,"debe contener may,min y numero"),
-*/
