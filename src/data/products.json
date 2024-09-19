@@ -1,0 +1,778 @@
+[
+  {
+    "category": "Anillos",
+    "description":  "duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+    "id": 0,
+    "images": [
+      "https://i.dummyjson.com/data/products/100/1.jpg",
+      "https://i.dummyjson.com/data/products/100/2.jpg"
+    ],
+    "price": 5600,
+    "thumbnail": "https://images.stockcake.com/public/b/2/1/b2176da7-2b4a-49f6-9f9b-234a9f736f3f_large/elegant-gemstone-rings-stockcake.jpg",
+    "title": "Anillo con piedras esmeralda"
+  },
+  {
+    "category": "Anillos",
+    "description":  "duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+    "id": 1,
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ],
+    "price": 16820,
+    "thumbnail": "https://img.freepik.com/foto-gratis/concepto-boda-lujo-flores-vista-alta_23-2148651998.jpg?semt=ais_hybrid",
+    "title": "Anillo oro con piedra"
+  },
+  {
+    "category": "Anillos",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "id": 2,
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ],
+    "price": 6450,
+    "thumbnail": "https://img.freepik.com/foto-gratis/anillo-oro-caro-exhibido-rocas_23-2150347043.jpg?semt=ais_hybrid",
+    "title": "Anillo abierto"
+  },
+  {
+    "category": "Argollas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "id": 3,
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg"
+    ],
+    "price": 3400,
+    "thumbnail": "https://img.freepik.com/foto-gratis/arreglo-estetico-aretes-dorados_23-2149846597.jpg?semt=ais_hybrid",
+    "title": "Argollas doradas"
+  },
+  {
+    "category": "Argollas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit ",
+    "id": 4,
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ],
+    "price": 2800,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-lujoso-anillo-dorado-marmol_23-2150329651.jpg?semt=ais_hybrid",
+    "title": "Argollas Oro Espiral"
+  },
+  {
+    "category": "Argollas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+    "id": 5,
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg"
+    ],
+    "price": 4909,
+    "thumbnail": "https://img.freepik.com/foto-gratis/pendientes-dorados-esteticos-alto-angulo_23-2149846570.jpg?semt=ais_hybrid",
+    "title": "Argolla Chata Oro"
+  },
+  {
+    "category": "Cadenas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat",
+    "id": 6,
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.png"
+    ],
+    "price": 1749,
+    "thumbnail": "https://img.freepik.com/foto-gratis/exhibicion-cadena-oro-brillante-elegante_23-2149635291.jpg?semt=ais_hybrid",
+    "title": "Cadena Oro 18k"
+  },
+  {
+    "category": "Cadenas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+    "id": 7,
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg"
+    ],
+    "price": 2500,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-superior-cadena-oro-arreglo-plantas_23-2149836408.jpg?semt=ais_hybrid",
+    "title": "Cadena Trenza"
+  },
+  {
+    "category": "Cadenas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+    "id": 8,
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ],
+    "price": 1499,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-superior-cadenas-oro-agua_23-2149836406.jpg?semt=ais_hybrid",
+    "title": "Cadena Fantasía"
+  },
+  {
+    "category": "Cadenas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit",
+    "id": 9,
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.png"
+    ],
+    "price": 10900,
+    "thumbnail": "https://img.freepik.com/foto-gratis/joven-llevando-cadena-collar_23-2149490507.jpg?semt=ais_hybrid",
+    "title": "Cadena Oro Gruesa"
+  },
+  {
+    "category": "Dijes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 10,
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ],
+    "price": 1230,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-superior-colgante-musulman_23-2148629967.jpg?semt=ais_hybrid",
+    "title": "Dije OM"
+  },
+  {
+    "category": "Dijes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 11,
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg"
+    ],
+    "price": 1950,
+    "thumbnail": "https://img.freepik.com/foto-gratis/colgante-forma-corazon-rosa-sobre-fondo-morado-dia-san-valentin_1057-35924.jpg?semt=ais_hybrid",
+    "title": "Dije Corazon"
+  },
+  {
+    "category": "Dijes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "id": 12,
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg"
+    ],
+    "price": 4000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-frontal-manos-sosteniendo-colgante-hamsa_23-2148629959.jpg?semt=ais_hybrid",
+    "title": "Dije Mano de Fatima"
+  },
+  {
+    "category": "Relojes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "id": 13,
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg"
+    ],
+    "price": 13000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/elegante-reloj-dorado-sobre-superficie-blanca_181624-27078.jpg?semt=ais_hybrid",
+    "title": "Reloj Oro fondo negro"
+  },
+  {
+    "category": "Relojes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
+    "id": 14,
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg"
+    ],
+    "price": 12000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/cierre-reloj-cambio-hora_23-2149241144.jpg?semt=ais_hybrid",
+    "title": "Reloj Deportivo"
+  },
+  {
+    "category": "Relojes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt",
+    "discountPercentage": 10.99,
+    "id": 15,
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ],
+    "price": 35000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/dispositivo-digital-pantalla-smartwatch_53876-97295.jpg?semt=ais_hybrid",
+    "title": "Reloj Digital"
+  },
+  {
+    "category": "Relojes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "discountPercentage": 13.31,
+    "id": 16,
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.png",
+      "https://i.dummyjson.com/data/products/16/2.webp"
+    ],
+    "price": 38000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/reloj-elegante-cadena-plata-oro-aislado_181624-27080.jpg?semt=ais_hybrid",
+    "title": "Reloj Oro y Plata"
+  },
+  {
+    "category": "Collares",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "discountPercentage": 4.09,
+    "id": 17,
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ],
+    "price": 2200,
+    "thumbnail": "https://img.freepik.com/foto-gratis/retrato-mujer-collar-arandanos_23-2150539807.jpg?semt=ais_hybrid",
+    "title": "Collar Cuero"
+  },
+  {
+    "category": "Collares",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est",
+    "id": 18,
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ],
+    "price": 4000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/mujer-joven-llevando-cadena-collar_23-2149490489.jpg?semt=ais_hybrid",
+    "title": "Collar Cadena"
+  },
+  {
+    "category": "Collares",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "discountPercentage": 10.68,
+    "id": 19,
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ],
+    "price": 4600,
+    "thumbnail": "https://img.freepik.com/foto-gratis/hermosa-mujer-joven-collar-colorido-sonriente_144627-12351.jpg?semt=ais_hybrid",
+    "title": "Collar Multicolor"
+  },
+  {
+    "category": "Collares",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "discountPercentage": 16.99,
+    "id": 20,
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ],
+    "price": 7000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/primer-plano-mujer-vistiendo-collar-conchas-mar-playa_343596-961.jpg?semt=ais_hybrid",
+    "title": "Collar Perlas"
+  },
+  {
+    "category": "Collares",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 21,
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.png",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ],
+    "price": 2900,
+    "thumbnail": "https://img.freepik.com/foto-gratis/joven-hermosa-mujer-rubia-tomando-sol-playa-traje-bano-rojo-gafas-sol_285396-6415.jpg?semt=ais_hybrid",
+    "title": "Collar Rojo Fantasia"
+  },
+  {
+    "category": "Argollas",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "id": 22,
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg"
+    ],
+    "price": 3400,
+    "thumbnail": "https://img.freepik.com/foto-gratis/arreglo-estetico-aretes-plata_23-2149846557.jpg?semt=ais_hybrid",
+    "title": "Argollas Plata"
+  },
+  {
+    "category": "Anillos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+    "id": 23,
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg"
+    ],
+    "price": 4500,
+    "thumbnail": "https://img.freepik.com/foto-gratis/hermoso-anillo-compromiso-diamantes_23-2149509246.jpg?semt=ais_hybrid",
+    "title": "Anillo Strass Plata"
+  },
+  {
+    "brand": "fauji",
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "discountPercentage": 16.8,
+    "id": 24,
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ],
+    "price": 4600,
+    "rating": 4.94,
+    "stock": 113,
+    "thumbnail": "https://img.freepik.com/foto-gratis/retrato-al-aire-libre-mujer-vestido-rosa-romantico-collar_343596-1994.jpg?semt=ais_hybrid",
+    "title": "Conjunto cadena y dije"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 25,
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.png",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ],
+    "price": 7000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/retrato-moda-mujer-villa-lujo-tropical-vistiendo-elegante-blazer-blanco-joyas-sobre-hojas-tropicales_343596-1979.jpg?semt=ais_hybrid",
+    "title": "Conjunto Anillo y Aros"
+  },
+  {
+    "category": "Aros",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 26,
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ],
+    "price": 4100,
+    "thumbnail": "https://img.freepik.com/foto-gratis/bodegon-pendientes-esteticos_23-2149649165.jpg?semt=ais_hybrid",
+    "title": "Aros cadena"
+  },
+  {
+    "category": "Dijes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu ",
+    "id": 27,
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ],
+    "price": 5100,
+    "thumbnail": "https://img.freepik.com/foto-gratis/primer-plano-vertical-mujer-vistiendo-collar-plata-hermoso-colgante-bloqueo_181624-27833.jpg?semt=ais_hybrid",
+    "title": "Dije Cubo"
+  },
+  {
+    "category": "Pulseras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+    "id": 28,
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ],
+    "price": 2000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-lateral-pulseras-plata-diamantes-pared-negra_140725-12838.jpg?semt=ais_hybrid",
+    "title": "Pulsera Plata ajustable"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "id": 29,
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ],
+    "price": 6000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/primer-plano-hermoso-conjunto-joyas-boda_181624-43719.jpg?semt=ais_hybrid",
+    "title": "Aros perla y pulsera"
+  },
+  {
+    "category": "Anillos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 30,
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg"
+    ],
+    "price": 30000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/anillo-oro-caro-exhibido-rocas_23-2150347065.jpg?semt=ais_hybrid",
+    "title": "Anillos oro irregular"
+  },
+  {
+    "category": "Pulseras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "id": 31,
+    "images": [
+      "https://i.dummyjson.com/data/products/31/1.jpg",
+      "https://i.dummyjson.com/data/products/31/2.jpg"
+    ],
+    "price": 4080,
+    "thumbnail": "https://img.freepik.com/foto-gratis/accesorios-mujer-negro-vista-superior_155003-6319.jpg?semt=ais_hybrid",
+    "title": "Pulsera cadena"
+  },
+  {
+    "category": "Anillos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 32,
+    "images": [
+      "https://i.dummyjson.com/data/products/32/1.jpg",
+      "https://i.dummyjson.com/data/products/32/2.jpg"
+    ],
+    "price": 50000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/papel-pintado-estetico-dorado-anillo-mano_23-2149872231.jpg?semt=ais_hybrid",
+    "title": "Anillo oro inicales"
+  },
+  {
+    "category": "Anillos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+    "id": 33,
+    "images": [
+      "https://i.dummyjson.com/data/products/33/1.jpg"
+    ],
+    "price": 7000,
+    "thumbnail": "https://img.freepik.com/foto-gratis/vista-lujoso-anillo-dorado-bandeja-roca-o-hormigon_23-2150329712.jpg?semt=ais_hybrid",
+    "title": "Anillo Trenza oro"
+  },
+  {
+    "category": "Piercings",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "id": 34,
+    "images": [
+      "https://i.dummyjson.com/data/products/34/1.jpg"
+    ],
+    "price": 5500,
+    "thumbnail": "https://images.unsplash.com/photo-1554726673-d178b7cac17a?q=80&w=1885&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Piercings oreja"
+  },
+  {
+    "category": "Piercings",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "id": 35,
+    "images": [
+      "https://i.dummyjson.com/data/products/35/1.jpg",
+      "https://i.dummyjson.com/data/products/35/2.jpg"
+    ],
+    "price": 4100,
+    "thumbnail": "https://images.unsplash.com/photo-1535889529807-d59c295e7e7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Piercing ceja"
+  },
+  {
+    "category": "Piercings",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "id": 36,
+    "images": [
+      "https://i.dummyjson.com/data/products/36/1.jpg",
+      "https://i.dummyjson.com/data/products/36/2.webp"
+    ],
+    "price": 9080,
+    "thumbnail": "https://i.ibb.co/9gKtpWL/Piercings-Bolita-Plata-925.png",
+    "title": "Piercings Bolita Plata 925"
+  },
+  {
+    "category": "Tobilleras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "id": 37,
+    "images": [
+      "https://i.dummyjson.com/data/products/39/1.jpg"
+    ],
+    "price": 6000,
+    "thumbnail": "https://images.unsplash.com/photo-1651029826590-0caef9086053?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Tobillera colores"
+  },
+  {
+    "category": "Tobilleras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+    "id": 38,
+    "images": [
+      "https://i.dummyjson.com/data/products/40/1.jpg",
+      "https://i.dummyjson.com/data/products/40/2.jpg"
+    ],
+    "price": 5700,
+    "thumbnail": "https://images.unsplash.com/photo-1635770607507-beb7d7972491?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8am95YXMlMjB0b2JpbGxlcmF8ZW58MHx8MHx8fDA%3D",
+    "title": "Tobillera Plata"
+  },
+  {
+    "category": "Tobilleras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 39,
+    "images": [
+      "https://i.dummyjson.com/data/products/41/1.jpg",
+      "https://i.dummyjson.com/data/products/41/2.webp"
+    ],
+    "price": 3500,
+    "thumbnail": "https://i.ibb.co/GsqwW7g/Tobillera-Regulable-Roja.png",
+    "title": "Tobillera Regulable Roja"
+  },
+  {
+    "category": "Tobilleras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+    "id": 40,
+    "images": [
+      "https://i.dummyjson.com/data/products/42/1.png",
+      "https://i.dummyjson.com/data/products/42/2.png"
+    ],
+    "price": 8000,
+    "thumbnail": "https://i.ibb.co/ynCMnv3/Tobillera-Mikonos.png",
+    "title": "Tobillera Mykonos"
+  },
+  {
+    "category": "Pulseras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "id": 41,
+    "images": [
+      "https://i.dummyjson.com/data/products/43/1.jpg"
+    ],
+    "price": 6000,
+    "thumbnail": "https://i.ibb.co/F8jG5Rs/Acero-quir-rgico-PROMO-x4-Pulseras.png",
+    "title": "Acero quirúrgico PROMO x4 Pulseras"
+  },
+  {
+    "category": "Pulseras",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 42,
+    "images": [
+      "https://i.dummyjson.com/data/products/45/1.jpg",
+      "https://i.dummyjson.com/data/products/45/2.webp"
+    ],
+    "price": 5800,
+    "thumbnail": "https://i.ibb.co/Lny20W1/Plata925-Pulseras-cristales-checos-4mm.png",
+    "title": "Plata 925 Pulseras cristales checos 4mm"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse",
+    "id": 43,
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg"
+    ],
+    "price": 4900,
+    "thumbnail": "https://i.ibb.co/VSJd02B/Conjunto-Collar-Aros-Pulsera-De-Cobre-Cuentas.png",
+    "title": "Conjunto Collar + Aros + Pulsera De Cobre Cuentas"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+    "id": 44,
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg"
+    ],
+    "price": 4700,
+    "thumbnail": "https://i.ibb.co/HgF49ND/Conjunto-collar-aros-valery.png",
+    "title": "Conjunto collar aros valery"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "id": 45,
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg"
+    ],
+    "price": 4200,
+    "thumbnail": "https://i.ibb.co/6WXvtc0/Conjunto-Aros-y-Collar-Plata-Coraz-n-Cubic-Negro-6-mm.png",
+    "title": "Conjunto Aros y Collar Plata Corazón Cubic Negro 6 mm"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est ",
+    "id": 46,
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg"
+    ],
+    "price": 38000,
+    "thumbnail": "https://i.ibb.co/m9k9QRQ/Set-Swarovski-Millenia-octogonal-azul-ba-o-de-rodio.png",
+    "title": "Set Swarovski Millenia octogonal azul baño de rodio"
+  },
+  {
+    "category": "Conjuntos",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit ",
+    "id": 47,
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg"
+    ],
+    "price": 5700,
+    "thumbnail": "https://i.ibb.co/WPMZ842/Set-tobilleras-x-3-3-anillos-para-pie.png",
+    "title": "Set tobilleras x 3 + 3 anillos para pie"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+    "id": 48,
+    "images": [
+      "https://i.dummyjson.com/data/products/47/1.jpg",
+      "https://i.dummyjson.com/data/products/47/2.jpg"
+    ],
+    "price": 2500,
+    "thumbnail": "https://i.ibb.co/93pTpw5/abridores7.png",
+    "title": "Abridores plata 925"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+    "id": 49,
+    "images": [
+      "https://i.dummyjson.com/data/products/48/1.jpg",
+      "https://i.dummyjson.com/data/products/48/2.jpg"
+    ],
+    "price": 6200,
+    "thumbnail": "https://i.ibb.co/dPp5Tfs/abridores6.png",
+    "title": "Abridores perla acero quirúrgico"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat",
+    "id": 50,
+    "images": [
+      "https://i.dummyjson.com/data/products/49/1.jpg",
+      "https://i.dummyjson.com/data/products/49/2.jpg"
+    ],
+    "price": 2300,
+    "thumbnail": "https://i.ibb.co/kKjNm5s/abridores5.png",
+    "title": "Abridores piedra turquesa"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat",
+    "id": 51,
+    "images": [
+      "https://i.dummyjson.com/data/products/50/1.jpeg",
+      "https://i.dummyjson.com/data/products/50/2.jpg"
+    ],
+    "price": 3600,
+    "thumbnail": "https://i.ibb.co/gTcJ7JZ/abridores4.png",
+    "title": "Abridores estrella rosa"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat",
+    "id": 52,
+    "images": [
+      "https://i.dummyjson.com/data/products/51/1.png",
+      "https://i.dummyjson.com/data/products/51/2.jpg"
+    ],
+    "price": 2380,
+    "thumbnail": "https://i.ibb.co/JtFVm1b/abridores1.png",
+    "title": "Abridores corazón turquesa"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "id": 53,
+    "images": [
+      "https://i.dummyjson.com/data/products/52/1.png",
+      "https://i.dummyjson.com/data/products/52/2.png"
+    ],
+    "price": 1900,
+    "thumbnail": "https://i.ibb.co/km9CV48/abridores3.png",
+    "title": "Abridores piedra roja"
+  },
+  {
+    "category": "Abridores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+    "id": 54,
+    "images": [
+      "https://i.dummyjson.com/data/products/53/1.webp",
+      "https://i.dummyjson.com/data/products/53/2.jpg"
+    ],
+    "price": 3500,
+    "thumbnail": "https://i.ibb.co/xHXHx6x/abridores2.png",
+    "title": "Abridores piedra circular"
+  },
+  {
+    "category": "Pasantes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+    "id": 55,
+    "images": [
+      "https://i.dummyjson.com/data/products/61/1.jpg",
+      "https://i.dummyjson.com/data/products/61/2.png",
+      "https://i.dummyjson.com/data/products/61/3.jpg"
+    ],
+    "price": 1200,
+    "thumbnail": "https://i.ibb.co/2jsnsgy/Acero-blanco-Aros-Pasantes-star.png",
+    "title": "Acero blanco Aros Pasantes star"
+  },
+  {
+    "category": "Pasantes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+    "id": 56,
+    "images": [
+      "https://i.dummyjson.com/data/products/62/1.jpg",
+      "https://i.dummyjson.com/data/products/62/2.jpg"
+    ],
+    "price": 4100,
+    "thumbnail": "https://i.ibb.co/PzKGXVL/Acero-blanco-Aros-pasantes-Osito-Gummy.png",
+    "title": "Acero blanco Aros pasantes Osito Gummy"
+  },
+  {
+    "category": "Pasantes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla",
+    "id": 57,
+    "images": [
+      "https://i.dummyjson.com/data/products/63/1.jpg",
+      "https://i.dummyjson.com/data/products/63/2.jpg"
+    ],
+    "price": 5200,
+    "thumbnail": "https://i.ibb.co/591LJGM/Acero-blanco-Aros-pasantes-colgantes-coraz-n.png",
+    "title": "Acero blanco Aros pasantes colgantes corazón"
+  },
+  {
+    "category": "Pasantes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat",
+    "id": 58,
+    "images": [
+      "https://i.dummyjson.com/data/products/64/1.jpg",
+      "https://i.dummyjson.com/data/products/64/2.webp"
+    ],
+    "price": 4650,
+    "thumbnail": "https://i.ibb.co/1s1fgS9/Acero-blanco-Aritos-pasantes.png",
+    "title": "Acero blanco Aritos pasantes"
+  },
+  {
+    "category": "Pasantes",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "discountPercentage": 17.79,
+    "id": 59,
+    "images": [
+      "https://i.dummyjson.com/data/products/65/1.jpg"
+    ],
+    "price": 4700,
+    "thumbnail": "https://i.ibb.co/ggWdpY6/Acero-blanco-Aritos-pasantes-Femenino.png",
+    "title": "Acero blanco Aritos pasantes Femenino"
+  },
+  {
+    "category": "Trepadores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 60,
+    "images": [
+      "https://i.dummyjson.com/data/products/67/1.jpg",
+      "https://i.dummyjson.com/data/products/67/2.jpg"
+    ],
+    "price": 6060,
+    "thumbnail": "https://i.ibb.co/LP9PkkC/Plata-Aros-trepadores-brillo-Ramita.png",
+    "title": "Plata Aros trepadores brillo Ramita"
+  },
+  {
+    "category": "Trepadores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident",
+    "id": 61,
+    "images": [
+      "https://i.dummyjson.com/data/products/68/1.jpg",
+      "https://i.dummyjson.com/data/products/68/2.jpg"
+    ],
+    "price": 5790,
+    "thumbnail": "https://i.ibb.co/chFGsbD/Plata-Aros-trepadores-brillo-Love.png",
+    "title": "Plata Aros trepadores brillo Love"
+  },
+  {
+    "category": "Trepadores",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+    "id": 62,
+    "images": [
+      "https://i.dummyjson.com/data/products/69/1.jpg",
+      "https://i.dummyjson.com/data/products/69/2.jpg"
+    ],
+    "price": 6700,
+    "thumbnail": "https://i.ibb.co/k2yJHxj/Plata-Aros-trepadores-brillo-flowers.png",
+    "title": "Plata Aros trepadores brillo flowers"
+  },
+  {
+    "category": "Aros",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat",
+    "id": 63,
+    "images": [
+      "https://i.dummyjson.com/data/products/70/1.jpg"
+    ],
+    "price": 3570,
+    "thumbnail": "https://images.unsplash.com/photo-1475179593777-bd12fd56b85d?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Aros Strass"
+  },
+  {
+    "category": "Aros",
+    "description": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint",
+    "id": 64,
+    "images": [
+      "https://i.dummyjson.com/data/products/71/1.jpg",
+      "https://i.dummyjson.com/data/products/71/2.jpg"
+    ],
+    "price": 7180,
+    "thumbnail": "https://images.unsplash.com/photo-1590166223826-12dee1677420?q=80&w=1889&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Aros Oro y perla"
+  }
+]
